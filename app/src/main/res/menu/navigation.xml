@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_result"
+        android:icon="@drawable/ic_baseline_fact_check_24"
+        android:title="Result"/>
+
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/ic_baseline_content_paste_24"
+        android:title="Schedule"/>
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="Favorites" />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UasApps</string>
+    <string name="match_result">Match</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="match_schedule">Match</string>
+</resources>
